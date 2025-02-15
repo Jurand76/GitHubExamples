@@ -5,3 +5,5 @@ Druga część piosenki
 utworzona w Git Web
 
 Commit 1 z feature
+
+Commit 2 z feature
