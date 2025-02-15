@@ -3,3 +3,5 @@ Sialalalalala i nie chcę wiecej
 
 Druga część piosenki
 utworzona w Git Web
+
+Commit 1 z feature
